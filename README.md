@@ -6,7 +6,7 @@ Nota. Es importante utilizar las librerias de couchdb
 
 3. Para poder hacer cosecha de posts, debemos usar la libreria facebook_craper que nos proporciona el metodo get_posts y debemos levantar el servidor local de mongo compass
 
-4.
+4.para poder utilizar MySQL con Python es necesario obtener las librerias, que nos permitiran realizarlo con el comando <<pip install mysql-connector-python>>
 
 5. Esto debemos realizarlo levantando ambos servidores locales, tanto de mongo como de couch y se deben utilizar las librerias pymongo y couchdb, cuando ya lo tengamos se debera hacer lectura de una base de datos de un servidor y escritura hacia la base de datos del otro servidor
 
